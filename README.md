@@ -37,4 +37,4 @@ Built With
 
 Authors
 -----------
-Koro
+* Koro
